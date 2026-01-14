@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-    baseURL: 'https://e-commerce-server-rlo5.onrender.com',
+    baseURL: 'https://e-commerce-backend-g890.onrender.com',
 });
 
 // Add a request interceptor to include the token in headers
